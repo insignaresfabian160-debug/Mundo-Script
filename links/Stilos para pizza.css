@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+    text-decoration: underline;
+    text-align: center;
+}
+
+p {
+    color: green;
+    text-align: justify;
+    text-decoration: none;
+}
+
+li {
+    color: blue;
+    text-decoration: overline;
+}
+
+h2 {
+    color: #FEFF16;
+    text-align: justify;
+    text-decoration: underline;
+}
